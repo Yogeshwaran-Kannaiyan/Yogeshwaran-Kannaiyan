@@ -46,28 +46,6 @@ I am an **Azure Solution Architect** with a deep passion for cloud technologies 
 
 ---
 
-<!-- ## 📚 Professional Experience
-
-### Codincity Digital Technologies Ltd | **Associate Cloud Architect**  
-**Nov 2022 – Present**  
-- Led **Greenfield implementations** of Azure services with hybrid cloud connectivity.
-- Migrated on-premises Active Directory to **Microsoft Entra ID**, ensuring seamless user synchronization.
-- Optimized Azure workloads and cost savings through effective use of **Azure Policies, Analyzing workloads & Utilization.**.
-- Developed and deployed **PowerShell** and **Terraform** scripts for automation.
-- Engaged in **pre-sales** activities, including workshops, POCs, and customer assessments.
-
-### Tata Consultancy Services | **Azure Cloud Engineer**  
-**Oct 2018 – Nov 2022**  
-- Managed large-scale **Datacenter migrations** to Azure Cloud, ensuring adherence to client policies.
-- Conducted POCs for new Azure services and collaborated with solution architects on cloud designs.
-
-### MicroGenesis TechSoft Pvt Ltd | **System Administrator**  
-**Aug 2016 – Oct 2018**  
-- Managed internal IT infrastructure, including server management, network operations, and backup solutions.
-- Implemented **Firewall management** and **Antivirus policies** to secure data and network environments.
-
---- -->
-
 ## 🚀 Projects
 
 - **Azure Services Greenfield Implementation**  
@@ -78,13 +56,6 @@ I am an **Azure Solution Architect** with a deep passion for cloud technologies 
 
 - **Azure Resource Automation**  
   Developed automation solutions using **Azure Automation Runbooks** to automatically delete Azure resources and streamline resource management.
-
----
-
-## 📖 Education
-
-- **BCA - Computer Application** | Bharathiar University, Coimbatore (2013)
-- **Diploma in Computer Engineering** | AMC Park Polytechnic College, Coimbatore (2009)
 
 ---
 
