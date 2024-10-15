@@ -38,7 +38,7 @@ I am an experienced **Azure Architect** with extensive knowledge in **Azure Clou
 ## 🔧 Technologies & Tools
 
 - **Cloud Platforms**: Microsoft Azure (IaaS, PaaS, AKS, Azure AD, Azure Policies, Azure Migrate)
-- ** DevOps/IaC Tools**: Azure DevOps, Terraform, PowerShell
+- **DevOps/IaC Tools**: Azure DevOps, Terraform, PowerShell
 - **Security**: Azure Security Services (Microsoft Sentinel, Azure Monitor), Zero Trust Architecture
 - **Network & Server Management**: Active Directory, Group Policy, Windows Server, SonicWALL, McAfee ePO
 - **Automation**: Azure Automation Runbooks, PowerShell Scripting, Terraform & ARM Template
