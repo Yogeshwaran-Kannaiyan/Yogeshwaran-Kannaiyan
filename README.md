@@ -7,7 +7,7 @@ Contact: [yogeshkannaiyan@outlook.com](mailto:yogeshkannaiyan@outlook.com)
 
 ## 👋 About Me
 
-I am an experienced **Azure Architect** with extensive knowledge in **Azure Cloud Infrastructure design**, **deployment**, and **configuration**, alongside a strong background in **Windows Server Administration**. I thrive on maintaining cutting-edge technical skills and staying updated with the latest industry knowledge, ensuring the delivery of optimal and scalable solutions for clients.
+I am an **Azure Solution Architect** with a deep passion for cloud technologies and infrastructure automation. With over a decade of experience in IT, I have an extensive knowledge and experienced in **Azure Cloud Migration, Infrastructure & Network Security Design, Deployment**, alongside a strong background in **Windows Server Administration**. I thrive on maintaining cutting-edge technical skills and staying updated with the latest industry knowledge, ensuring the delivery of optimal and scalable solutions for clients.
 
 ---
 
@@ -17,9 +17,9 @@ I am an experienced **Azure Architect** with extensive knowledge in **Azure Clou
 - **Cloud Security**: Skilled in implementing **Azure Monitor**, **Defender for Cloud**, **Microsoft Sentinel**, and **Zero Trust Architecture**.
 - **Identity & Access Management (IAM)**: Expertise in **Azure Active Directory (Azure AD)**, **Multi-factor authentication (MFA)**, and **Conditional access policies**.
 - **Azure IaaS & PaaS**: Comprehensive understanding of Azure IaaS and PaaS services for efficient project implementations.
+- **Automation & Infrastructure as Code**: Proficient in **PowerShell**, **Terraform**, and other automation tools to deploy and manage cloud resources.
 - **Azure DevOps**: Proficient in utilizing Azure DevOps for project management, CI/CD pipelines, and deployment automation.
 - **Azure Kubernetes Service (AKS)**: Experience in deploying containerized applications using AKS.
-- **Automation**: Created **PowerShell** and **Terraform** scripts to automate Azure deployments and resource management.
 - **Windows Server Administration**: Strong background in server management, network management, and virtualization.
 - **Collaboration**: Excellent interpersonal skills and proven ability to work within cross-functional teams.
 
@@ -46,7 +46,7 @@ I am an experienced **Azure Architect** with extensive knowledge in **Azure Clou
 
 ---
 
-## 📚 Professional Experience
+<!-- ## 📚 Professional Experience
 
 ### Codincity Digital Technologies Ltd | **Associate Cloud Architect**  
 **Nov 2022 – Present**  
@@ -66,7 +66,7 @@ I am an experienced **Azure Architect** with extensive knowledge in **Azure Clou
 - Managed internal IT infrastructure, including server management, network operations, and backup solutions.
 - Implemented **Firewall management** and **Antivirus policies** to secure data and network environments.
 
----
+--- -->
 
 ## 🚀 Projects
 
